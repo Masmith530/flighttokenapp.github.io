@@ -1,11 +1,11 @@
 {
-    "name": "flighttoken_website",
-    "short_name": "flighttoken_website",
+    "name": "Flight Token",
+    "short_name": "Flight Token",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#2d2d2d",
+    "theme_color": "#2d2d2d",
+    "description": "Flight Token",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
